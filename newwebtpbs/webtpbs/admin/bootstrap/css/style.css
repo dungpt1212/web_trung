@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-default{
+	background: black;
+}
+.navbar-default .navbar-nav li a{
+	color: white;
+	font-weight: bold;
+}
+.navbar-default .navbar-nav li a:hover{
+	color: white;
+}
+.nav-pills li a{
+	color: white;
+}
+.nav-pills li a:hover{
+	color: black;
+}
+.cach {
+	margin-left: 10px;
+}

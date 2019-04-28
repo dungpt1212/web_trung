@@ -1,0 +1,2 @@
+<img src="../image/hello.jpg" class="animated zoomIn" style="margin-left: 200px; margin-top: 50px;">
+<h3 class="animated bounceInLeft" style="color: red; margin-left: 200px; margin-top: 50px;"><?php echo('Chào mừng '.$_SESSION['admin']).' đến với trang quản trị website'; ?></h3>
